@@ -16,6 +16,7 @@
 		D0C939252AFD8FBE00491CA6 /* Hackwich10_11_9_23Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C939242AFD8FBE00491CA6 /* Hackwich10_11_9_23Tests.swift */; };
 		D0C9392F2AFD8FBE00491CA6 /* Hackwich10_11_9_23UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C9392E2AFD8FBE00491CA6 /* Hackwich10_11_9_23UITests.swift */; };
 		D0C939312AFD8FBE00491CA6 /* Hackwich10_11_9_23UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C939302AFD8FBE00491CA6 /* Hackwich10_11_9_23UITestsLaunchTests.swift */; };
+		D0C9393E2AFD9AA000491CA6 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C9393D2AFD9AA000491CA6 /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D0C9392A2AFD8FBE00491CA6 /* Hackwich10_11.9.23UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hackwich10_11.9.23UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0C9392E2AFD8FBE00491CA6 /* Hackwich10_11_9_23UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich10_11_9_23UITests.swift; sourceTree = "<group>"; };
 		D0C939302AFD8FBE00491CA6 /* Hackwich10_11_9_23UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich10_11_9_23UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D0C9393D2AFD9AA000491CA6 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D0C9390D2AFD8FBB00491CA6 /* AppDelegate.swift */,
 				D0C9390F2AFD8FBB00491CA6 /* SceneDelegate.swift */,
 				D0C939112AFD8FBB00491CA6 /* ViewController.swift */,
+				D0C9393D2AFD9AA000491CA6 /* Restaurant.swift */,
 				D0C939132AFD8FBB00491CA6 /* Main.storyboard */,
 				D0C939162AFD8FBD00491CA6 /* Assets.xcassets */,
 				D0C939182AFD8FBD00491CA6 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0C9393E2AFD9AA000491CA6 /* Restaurant.swift in Sources */,
 				D0C939122AFD8FBB00491CA6 /* ViewController.swift in Sources */,
 				D0C9390E2AFD8FBB00491CA6 /* AppDelegate.swift in Sources */,
 				D0C939102AFD8FBB00491CA6 /* SceneDelegate.swift in Sources */,
